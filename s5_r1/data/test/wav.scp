@@ -1,0 +1,11 @@
+AimeeMullins_2009P sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/AimeeMullins_2009P.sph |
+BillGates_2010 sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/BillGates_2010.sph |
+DanBarber_2010 sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/DanBarber_2010.sph |
+DanielKahneman_2010 sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/DanielKahneman_2010.sph |
+EricMead_2009P sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/EricMead_2009P.sph |
+GaryFlake_2010 sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/GaryFlake_2010.sph |
+JamesCameron_2010 sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/JamesCameron_2010.sph |
+JaneMcGonigal_2010 sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/JaneMcGonigal_2010.sph |
+MichaelSpecter_2010 sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/MichaelSpecter_2010.sph |
+RobertGupta_2010U sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/RobertGupta_2010U.sph |
+TomWujec_2010U sph2pipe -f wav -p /media/harddrive/AndyChuang/tedlium/TEDLIUM_release1/test/sph/TomWujec_2010U.sph |
