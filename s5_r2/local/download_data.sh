@@ -3,9 +3,10 @@
 # Copyright  2014 Nickolay V. Shmyrev
 #            2014 Brno University of Technology (Author: Karel Vesely)
 # Apache 2.0
+. ./path.sh
 
-cd /media/harddrive/AndyChuang/tedlium
-#pushd db
+cd exactDataDir
+
 # TED-LIUM database:
 if [[ $(hostname -f) == *.clsp.jhu.edu ]] ; then
   ln -s /export/corpora5/TEDLIUM_release1
