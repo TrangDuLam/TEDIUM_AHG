@@ -5,7 +5,7 @@
 # Apache 2.0
 . ./path.sh
 
-cd exactDataDir
+cd $exactDataDir
 
 # TED-LIUM database:
 if [[ $(hostname -f) == *.clsp.jhu.edu ]] ; then
