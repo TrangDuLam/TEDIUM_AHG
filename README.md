@@ -2,7 +2,7 @@
 
 ## Introduction ##
 
-A Kaldi baseline model adapted to individual 
+A Kaldi baseline model adapted to personal/non-clustering machines.
 
 ## Version Released ##
 
@@ -15,8 +15,25 @@ A Kaldi baseline model adapted to individual
   2. Based on AISHELL-1 framework
   3. Using TED-LIUM 1 corpus
 
-## TODO ## 
+## TODO ##
 
-1. cd s5_r2
-2. Configure the variable exactDataDir in path.sh (The desired dataset location)
-3. bash run.sh
+1. To enable GPU exclusive mode via command "sudo nvidia-smi -c 3"
+2. cd s5_r2
+3. Configure the variable exactDataDir in path.sh (The desired dataset location)
+4. bash run.sh
+
+## Learning Objectives ##
+
+These are several hints for you to prepare your in-lab meeting presentation.
+
+* Basic
+  1. Which type of features are used?
+  2. Overall model building flow (To explain each step)
+  3. Arguments of each line of code (file I/O)
+  4. How to decode other wave files
+  5. How to know the overall performance
+
+* Intermediate
+  1. To visualize features (MFCC files, ivectors)
+  2. To decode graph, decision trees
+  3. Knowing the structure of neural networks

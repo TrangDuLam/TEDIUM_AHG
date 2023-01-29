@@ -25,7 +25,7 @@
 nj=10
 decode_nj=8
 
-stage=10
+stage=-1
 
 . utils/parse_options.sh  # accept options.. you can run this run.sh with the
                           # --stage option, for instance, if you don't want to
