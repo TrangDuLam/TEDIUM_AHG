@@ -18,9 +18,10 @@ A Kaldi baseline model adapted to personal/non-clustering machines.
 ## TODO ##
 
 1. To enable GPU exclusive mode via command "sudo nvidia-smi -c 3"
-2. cd s5_r2
-3. Configure the variable exactDataDir in path.sh (The desired dataset location)
-4. bash run.sh
+2. Type "screen" in command prompt to enter background process
+3. cd s5_r2
+4. Configure the variable exactDataDir in path.sh (The desired dataset location)
+5. bash run.sh
 
 ## Learning Objectives ##
 
